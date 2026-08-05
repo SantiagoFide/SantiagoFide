@@ -1,6 +1,6 @@
 # Hi, I'm Santiago 👋
 
-Systems Engineering student focused on databases, SQL, Java, and data analysis.
+Systems Engineering focused on databases, SQL, Java, and data analysis.
 
 ## Technologies
 
